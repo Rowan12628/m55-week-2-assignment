@@ -1,22 +1,3 @@
-// if (1 != "1") {
-//     console.log(true)
-// } else {
-//     console.log(false)
-// }
-
-// let place = "Manc";
-// let weather = "Cloudy";
-
-// if (place == "Manc" && weather == "Sunny") {
-//     console.log("Check again");
-// }
-// else if (place == "Manc" && weather == "Rainy") {
-//     console.log("Obvs");
-// }
-// else {
-//     console.log("What, it isn't raining?");
-// }
-
 // Activity One
 
 // const age = 18

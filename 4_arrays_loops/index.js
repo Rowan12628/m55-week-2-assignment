@@ -1,3 +1,36 @@
+//Arrays
+//Activity One
+
+// let favSongs = [
+//   "Home, Cavetown",
+//   "Megalovania, Undertale",
+//   "Boy In The Bubble, Alec Benjamin",
+// ];
+
+// console.log(favSongs);
+
+// favSongs.push(
+//   "Reverberate, Bears in Trees",
+//   "What If Tomorrow Comes, Black Friday"
+// );
+
+// console.log(favSongs);
+
+// favSongs.pop();
+
+// console.log(favSongs);
+
+//Activity Two
+
+// let clothes = ["shoes", "skirt", "pants"];
+
+// console.log(`This is my list of clothes: ${clothes}!`);
+
+// clothes.unshift("shirts");
+
+// console.log(`This is my list after using the .unshift method: ${clothes}!`);
+
+//Loops
 //Activity One
 
 // let favFilms = [

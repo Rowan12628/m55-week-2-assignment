@@ -1,33 +1,3 @@
-// const favColour = () => {
-//   console.log("My favourite colour is yellow");
-// };
-
-// favColour();
-
-// let balance = 100000;
-
-// const cashWithdrawal = (amount, accNum) => {
-//   balance = balance - amount;
-//   console.log(
-//     `You withdrew ${amount} from the account ${accNum}. Your balance is now ${balance}.`
-//   );
-// };
-
-// cashWithdrawal(500, 123456);
-// cashWithdrawal(500, 123456);
-
-// const favColour = (colour) => {
-//   console.log(`My favourite colour is ${colour}`);
-// };
-
-// favColour("yellow");
-
-// const addUp = (num1, num2) => {
-//   return num1 + num2;
-// };
-
-// console.log(addUp(10, 5));
-
 //Activity One
 
 // const factorial = (n) => {
